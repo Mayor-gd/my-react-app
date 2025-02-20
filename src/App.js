@@ -40,7 +40,7 @@ export default function BasicButtons() {
             },
           }}
         >
-          Custom Button
+          Why are you gay?
         </Button>
       </Stack>
     </Box>
